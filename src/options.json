@@ -1,0 +1,17 @@
+{
+  "type": "object",
+  "properties": {
+    "name": {},
+    "regExp": {},
+    "context": {
+      "type": "string"
+    },
+    "prefix": {
+      "type": "string"
+    }
+  },
+  "errorMessages": {
+    "context": "should be {String} (https://github.com/webpack-contrib/file-loader#context)"
+  },
+  "additionalProperties": true
+}
